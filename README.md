@@ -25,10 +25,4 @@ The `circuit-garden.svg` wallpaper is original. Circuit Garden OS is an independ
 See [FEATURES.md](FEATURES.md) for three local tools included for electronics design.
 
 
-The installer also includes three purpose-specific applications: **QGIS, GNOME Maps, LibreOffice**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
-
-The installer also includes three purpose-specific applications: **GNOME Builder, Wireshark, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
+The installer includes ten more applications selected for this distro's purpose. See [FEATURES.md](FEATURES.md) for the list.
