@@ -3,3 +3,8 @@ org.kicad.KiCad
 com.vscodium.codium
 org.mozilla.firefox
 com.opera.opera-gx
+
+# Three additional preinstalled purpose-specific applications
+org.gnome.Builder
+org.wireshark.Wireshark
+cc.arduino.IDE2
